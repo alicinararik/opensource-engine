@@ -1,4 +1,7 @@
-# Open Source Engine
+<p align="center">
+  <img src="open.png" alt="Open Source Engine Banner" width="800">
+</p>
+
 
 ## ⚠️ Disclaimer
 
