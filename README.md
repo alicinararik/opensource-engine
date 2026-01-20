@@ -1,7 +1,11 @@
 <p align="center">
   <img src="open.png" alt="Open Source Engine" width="720">
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-Engine-orange">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/Status-Early%20Development-blue">
+</p>
 > ⚠️ **Disclaimer**
 >
 > This project is **NOT affiliated with, endorsed by, or connected to Valve Corporation** in any way.
@@ -11,11 +15,7 @@
 >
 > Open Source Engine is an independent, open-source hobby project created to explore
 > game engine development, FPS mechanics, and modern rendering techniques.
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-Engine-orange">
-  <img src="https://img.shields.io/badge/License-MIT-green">
-  <img src="https://img.shields.io/badge/Status-Early%20Development-blue">
-</p>
+
 
 
 ---
