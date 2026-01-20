@@ -1,0 +1,58 @@
+   0.047811800s  INFO prepare_target{force=false package_id=engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine) target="engine"}: cargo::core::compiler::fingerprint: fingerprint error for engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine)/Check { test: false }/TargetInner { name: "engine", doc: true, ..: with_path("C:\\Users\\Ali\\Desktop\\Open Source\\opensource-engine\\engine\\src\\main.rs", Edition2024) }
+   0.047978400s  INFO prepare_target{force=false package_id=engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine) target="engine"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Ali\Desktop\Open Source\opensource-engine\engine\target\debug\.fingerprint\engine-48681a1126cd57aa\bin-engine`
+
+Caused by:
+    Sistem belirtilen dosyayı bulamıyor. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   1.267118200s  INFO prepare_target{force=false package_id=engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine) target="engine"}: cargo::core::compiler::fingerprint: fingerprint error for engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine)/Check { test: true }/TargetInner { name: "engine", doc: true, ..: with_path("C:\\Users\\Ali\\Desktop\\Open Source\\opensource-engine\\engine\\src\\main.rs", Edition2024) }
+   1.267173900s  INFO prepare_target{force=false package_id=engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine) target="engine"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Ali\Desktop\Open Source\opensource-engine\engine\target\debug\.fingerprint\engine-ff1294a3f332b2a2\test-bin-engine`
+
+Caused by:
+    Sistem belirtilen dosyayı bulamıyor. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking engine v0.1.0 (C:\Users\Ali\Desktop\Open Source\opensource-engine\engine)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 13.43s
