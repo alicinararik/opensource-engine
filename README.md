@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="open.png" alt="Open Source Engine Banner" width="800">
+  <img src="open.png" alt="Open Source Engine" width="720">
 </p>
-
 
 ## ⚠️ Disclaimer
 
